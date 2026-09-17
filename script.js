@@ -197,7 +197,6 @@ const allCountries = [
     { code: "81", flag: "🇯🇵", name: "اليابان" },
     { code: "30", flag: "🇬🇷", name: "اليونان" }
 ];
-
 function getCountrySelectHTML(id, onChangeEvent) {
     let optionsHTML = allCountries.map(c => `<option value="${c.code}">${c.flag} +${c.code}</option>`).join('');
     return `
