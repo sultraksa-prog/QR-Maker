@@ -31,7 +31,6 @@ const allCountries = [
     { code: "34", flag: "🇪🇸", name: "إسبانيا" },
     { code: "61", flag: "🇦🇺", name: "أستراليا" },
     { code: "372", flag: "🇪🇪", name: "إستونيا" },
-    { code: "972", flag: "🇮🇱", name: "إسرائيل" },
     { code: "268", flag: "🇸🇿", name: "إسواتيني" },
     { code: "93", flag: "🇦🇫", name: "أفغانستان" },
     { code: "593", flag: "🇪🇨", name: "الإكوادور" },
